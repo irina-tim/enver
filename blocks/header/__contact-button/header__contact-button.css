@@ -1,0 +1,9 @@
+.header__contact-button {
+  width: 157px;
+  height: 44px;
+  border: 1px solid white;
+  border-radius: 5px;
+  background-color: transparent;
+  color: white;
+  font: normal 16px/22px "NunitoSans", Arial, sans-serif;
+}
