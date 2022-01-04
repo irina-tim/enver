@@ -1,0 +1,5 @@
+.page {
+  background-color: #19191b;
+  display: flex;
+  flex-direction: column;
+}

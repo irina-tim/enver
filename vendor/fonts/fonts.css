@@ -1,0 +1,55 @@
+@font-face {
+  src: url(../fonts/Graphik/Graphik-Regular.woff),
+    url(../fonts/Graphik/Graphik-Regular.woff2);
+  font-family: "Graphik";
+  font-weight: normal;
+}
+
+@font-face {
+  src: url(../fonts/Graphik/Graphik-Bold.woff),
+    url(../fonts/Graphik/Graphik-Bold.woff2);
+  font-family: "Graphik";
+  font-weight: bold;
+}
+
+@font-face {
+  src: url(../fonts/Montserrat/Montserrat-Bold.ttf);
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+@font-face {
+  src: url(../fonts/NunitoSans/NunitoSans-Regular.ttf);
+  font-family: "Nunito Sans";
+  font-weight: normal;
+}
+
+@font-face {
+  src: url(../fonts/NunitoSans/NunitoSans-SemiBold.ttf);
+  font-family: "Nunito Sans";
+  font-weight: 600;
+}
+
+@font-face {
+  src: url(../fonts/NunitoSans/NunitoSans-Bold.ttf);
+  font-family: "Nunito Sans";
+  font-weight: bold;
+}
+
+@font-face {
+  src: url(../fonts/NunitoSans/NunitoSans-ExtraBold.ttf);
+  font-family: "Nunito Sans";
+  font-weight: 900;
+}
+
+@font-face {
+  src: url(../fonts/Rubik/Rubik-Regular.ttf);
+  font-family: "Rubik";
+  font-weight: normal;
+}
+
+@font-face {
+  src: url(../fonts/Rubik/Rubik-Medium.ttf);
+  font-family: "Rubik";
+  font-weight: 500;
+}
