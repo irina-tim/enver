@@ -1,0 +1,11 @@
+.platform__button {
+  width: 204px;
+  height: 58px;
+  background: #5454d4;
+  border-radius: 4px;
+  color: white;
+  border: none;
+  font: 700 20px/27px "Nunito Sans", Arial, sans-serif;
+  padding: 0;
+  z-index: 100;
+}

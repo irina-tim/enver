@@ -1,7 +1,10 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts/fonts.css);
 @import url(../blocks/page/page.css);
+@import url(../blocks/content/content.css);
+@import url(../blocks/page/__blurred-rectangle/page__blurred-rectangle.css);
 @import url(../blocks/page/__header/page__header.css);
+@import url(../blocks/page/__platform/page__platform.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__logo-icon/header__logo-icon.css);
@@ -9,3 +12,9 @@
 @import url(../blocks/header/__contact-button/header__contact-button.css);
 @import url(../blocks/header/__lang-links/header__lang-links.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
+@import url(../blocks/platform/platform.css);
+@import url(../blocks/platform/__title/platform__title.css);
+@import url(../blocks/platform/__subtitle/platform__subtitle.css);
+@import url(../blocks/platform/__button/platform__button.css);
+@import url(../blocks/platform/__button-arrow/platform__button-arrow.css);
+@import url(../blocks/platform/__container/platform__container.css);
