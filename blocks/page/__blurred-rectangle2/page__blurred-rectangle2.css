@@ -1,0 +1,15 @@
+.page__blurred-rectangle2 {
+  position: absolute;
+  width: 467px;
+  height: 1399.3px;
+  left: 1000px;
+  top: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(251, 168, 28, 0.1066) 0%,
+    rgba(224, 86, 136, 0.0615) 100%
+  );
+  filter: blur(300px);
+  border-radius: 233.5px;
+  transform: rotate(65.71deg);
+}
