@@ -1,8 +1,10 @@
 .platform__subtitle {
   color: white;
   font: normal 21px/39px "Nunito Sans", Arial, sans-serif;
+  letter-spacing: -0.656526px;
   opacity: 0.7;
   margin: 0;
   padding: 0;
   margin-bottom: 50px;
+  max-width: 536px;
 }

@@ -6,6 +6,7 @@
 @import url(../blocks/page/__blurred-rectangle2/page__blurred-rectangle2.css);
 @import url(../blocks/page/__header/page__header.css);
 @import url(../blocks/page/__platform/page__platform.css);
+@import url(../blocks/page/__best-choice/page__best-choice.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__logo-icon/header__logo-icon.css);
@@ -19,3 +20,8 @@
 @import url(../blocks/platform/__button/platform__button.css);
 @import url(../blocks/platform/__button-arrow/platform__button-arrow.css);
 @import url(../blocks/platform/__container/platform__container.css);
+@import url(../blocks/best-choice/best-choice.css);
+@import url(../blocks/best-choice/__container/best-choice__container.css);
+@import url(../blocks/best-choice/__title/best-choice__title.css);
+@import url(../blocks/best-choice/__subtitle/best-choice__subtitle.css);
+@import url(../blocks/best-choice/__image/best-choice__image.css);

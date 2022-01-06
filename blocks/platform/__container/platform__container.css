@@ -1,4 +1,18 @@
 .platform__container {
   width: 100%;
-  max-width: 582px;
+  margin: 0;
+  padding: 0;
+  grid-column: 1/21;
+  grid-row: 1/2;
+  position: relative;
+}
+
+.platform__container:nth-child(2) {
+  background-image: url(../../../images/platform__image.svg);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-top: -70px;
+  grid-column: 18/40;
+  grid-row: 1/2;
 }
