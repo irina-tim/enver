@@ -1,4 +1,7 @@
 .contact-us__container {
   width: 1200px;
-  background: red;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
 }

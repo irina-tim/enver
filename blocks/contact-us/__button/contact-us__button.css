@@ -1,0 +1,11 @@
+.contact-us__button {
+  display: block;
+  width: 201px;
+  height: 60px;
+  background: #5454d4;
+  border-radius: 5px;
+  color: white;
+  font: bold 21px/29px "Nunito Sans", Arial, sans-serif;
+  border: none;
+  padding: 0;
+}

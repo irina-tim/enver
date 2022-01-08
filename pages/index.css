@@ -11,10 +11,12 @@
 @import url(../blocks/page/__platform/page__platform.css);
 @import url(../blocks/page/__best-choice/page__best-choice.css);
 @import url(../blocks/page/__portfolio/page__portfolio.css);
+@import url(../blocks/page/__contact-us/page__contact-us.css);
+@import url(../blocks/page/__footer/page__footer.css);
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/__icon/logo__icon.css);
+@import url(../blocks/logo/__text/logo__text.css);
 @import url(../blocks/header/header.css);
-@import url(../blocks/header/__logo/header__logo.css);
-@import url(../blocks/header/__logo-icon/header__logo-icon.css);
-@import url(../blocks/header/__logo-text/header__logo-text.css);
 @import url(../blocks/header/__contact-button/header__contact-button.css);
 @import url(../blocks/header/__lang-links/header__lang-links.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
@@ -54,3 +56,9 @@
 @import url(../blocks/contact-us/__container/contact-us__container.css);
 @import url(../blocks/contact-us/__title/contact-us__title.css);
 @import url(../blocks/contact-us/__button/contact-us__button.css);
+@import url(../blocks/contact-us/__svg-circles/contact-us__svg-circles.css);
+@import url(../blocks/contact-us/__svg-plus/contact-us__svg-plus.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);

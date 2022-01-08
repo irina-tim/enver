@@ -1,5 +1,5 @@
-.header__logo {
+.logo {
   display: flex;
-  gap: 48px;
+  gap: 8px;
   align-items: center;
 }

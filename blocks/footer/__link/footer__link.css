@@ -1,0 +1,5 @@
+.footer__link {
+  color: rgba(255, 255, 255, 0.7);
+  text-decoration: none;
+  font: normal 18px/25px "Nunito Sans", Arial, sans-serif;
+}
