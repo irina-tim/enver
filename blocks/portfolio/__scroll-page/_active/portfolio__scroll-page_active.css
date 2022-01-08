@@ -1,0 +1,6 @@
+.portfolio__scroll-page_active {
+  width: 16px;
+  height: 8px;
+  background: #5454d4;
+  border-radius: 10px;
+}

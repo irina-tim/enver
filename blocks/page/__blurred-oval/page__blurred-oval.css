@@ -1,0 +1,15 @@
+.page__blurred-oval {
+  position: absolute;
+  width: 467px;
+  height: 508.5px;
+  top: 1753.59px;
+  left: -196px;
+  background: linear-gradient(
+    180deg,
+    rgba(84, 84, 212, 0.21) 0%,
+    rgba(84, 84, 212, 0.0882) 100%
+  );
+  filter: blur(100px);
+  border-radius: 233.5px;
+  transform: rotate(-54.37deg);
+}

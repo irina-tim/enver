@@ -1,0 +1,12 @@
+.portfolio__image {
+  border-radius: 14px;
+  border: 14px solid #1e1e20;
+}
+
+.portfolio__image:nth-child(1) {
+  align-self: flex-start;
+}
+
+.portfolio__image:nth-child(3) {
+  align-self: flex-end;
+}

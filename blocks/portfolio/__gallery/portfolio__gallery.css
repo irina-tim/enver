@@ -1,0 +1,7 @@
+.portfolio__gallery {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 417px;
+  margin-bottom: 50px;
+}

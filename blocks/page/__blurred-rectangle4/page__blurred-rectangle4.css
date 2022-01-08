@@ -1,0 +1,16 @@
+.page__blurred-rectangle4 {
+  position: absolute;
+  width: 599.58px;
+  height: 652.85px;
+  right: -169px;
+  top: 2658px;
+  background: linear-gradient(
+    180deg,
+    rgba(84, 84, 212, 0.2) 0%,
+    rgba(84, 84, 212, 0.084) 100%
+  );
+  filter: blur(100px);
+  opacity: 0.8;
+  border-radius: 233.5px;
+  transform: matrix(-0.58, -0.81, -0.81, 0.58, 0, 0);
+}

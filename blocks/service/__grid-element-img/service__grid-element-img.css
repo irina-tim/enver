@@ -1,0 +1,20 @@
+.service__grid-element-img {
+  width: 69px;
+  height: 69px;
+  background: rgba(84, 84, 212, 0.1);
+  margin-bottom: 20px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.service__grid-element:nth-child(2) .service__grid-element-img,
+.service__grid-element:nth-child(6) .service__grid-element-img {
+  background: rgba(240, 64, 55, 0.1);
+}
+
+.service__grid-element:nth-child(3) .service__grid-element-img,
+.service__grid-element:nth-child(4) .service__grid-element-img {
+  background: rgba(254, 220, 90, 0.1);
+}

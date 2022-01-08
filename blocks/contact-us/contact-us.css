@@ -1,0 +1,8 @@
+.contact-us {
+  width: 100%;
+  min-height: 506px;
+  background: rgba(30, 30, 32, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

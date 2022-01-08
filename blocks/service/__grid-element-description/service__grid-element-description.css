@@ -1,0 +1,9 @@
+.service__grid-element-description {
+  color: rgba(255, 255, 255, 0.7);
+  font: normal 20px/28px "Nunito Sans", Arial, sans-serif;
+  letter-spacing: -0.500211px;
+  margin: 0;
+  padding: 0;
+  max-width: 299px;
+  text-align: center;
+}
