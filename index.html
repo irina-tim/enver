@@ -8,8 +8,6 @@
   </head>
   <body>
     <div class="page">
-      <div class="page__blurred-rectangle2"></div>
-      <div class="page__blurred-oval"></div>
       <div class="page__blurred-rectangle3"></div>
       <div class="page__blurred-rectangle4"></div>
       <!-- Header -->
@@ -22,9 +20,9 @@
           <a class="header__lang-link header__lang-link_active" href="#">
             Home
           </a>
-          <a class="header__lang-link" href="#">Services</a>
-          <a class="header__lang-link" href="#">Our Project</a>
-          <a class="header__lang-link" href="#">About us</a>
+          <a class="header__lang-link" href="#service">Services</a>
+          <a class="header__lang-link" href="#portfolio">Our Project</a>
+          <a class="header__lang-link" href="#contact-us">About us</a>
         </nav>
         <button class="header__contact-button">Contact us</button>
       </header>
@@ -44,7 +42,9 @@
               <div class="platform__button-arrow"></div>
             </button>
           </div>
-          <div class="platform__container"></div>
+          <div class="platform__container">
+            <div class="platform__blurred-rectangle2"></div>
+          </div>
         </section>
         <!-- Best choice section -->
         <section class="best-choice page__best-choice">
@@ -62,8 +62,9 @@
           />
         </section>
         <!-- Service section -->
-        <section class="service page__service">
+        <section class="service page__service" id="service">
           <div class="service__title-container">
+            <div class="service__blurred-oval"></div>
             <svg class="service__svg-triangles">
               <path
                 d="M32.1092 78.1455L33.4672 20.1377L83.0244 50.3176L32.1092 78.1455Z"
@@ -356,7 +357,7 @@
           </ul>
         </section>
         <!-- Porfolio section -->
-        <section class="portfolio page__portfolio">
+        <section class="portfolio page__portfolio" id="portfolio">
           <div class="portfolio__title-container">
             <svg class="portfolio__svg-plus">
               <path
@@ -423,7 +424,7 @@
         </section>
       </main>
       <!-- Contact-us section -->
-      <section class="contact-us page__contact-us">
+      <section class="contact-us page__contact-us" id="contact-us">
         <div class="contact-us__container">
           <h2 class="contact-us__title">
             Contact us for the service you want to use

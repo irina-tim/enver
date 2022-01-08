@@ -2,13 +2,12 @@
 @import url(../vendor/fonts/fonts.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/content/content.css);
-@import url(../blocks/page/__blurred-rectangle2/page__blurred-rectangle2.css);
-@import url(../blocks/page/__blurred-oval/page__blurred-oval.css);
 @import url(../blocks/page/__blurred-rectangle3/page__blurred-rectangle3.css);
 @import url(../blocks/page/__blurred-rectangle4/page__blurred-rectangle4.css);
 @import url(../blocks/page/__header/page__header.css);
 @import url(../blocks/page/__platform/page__platform.css);
 @import url(../blocks/page/__best-choice/page__best-choice.css);
+@import url(../blocks/page/__service/page__service.css);
 @import url(../blocks/page/__portfolio/page__portfolio.css);
 @import url(../blocks/page/__contact-us/page__contact-us.css);
 @import url(../blocks/page/__footer/page__footer.css);
@@ -21,6 +20,7 @@
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 @import url(../blocks/platform/platform.css);
 @import url(../blocks/platform/__blurred-rectangle/platform__blurred-rectangle.css);
+@import url(../blocks/platform/__blurred-rectangle2/platform__blurred-rectangle2.css);
 @import url(../blocks/platform/__title/platform__title.css);
 @import url(../blocks/platform/__subtitle/platform__subtitle.css);
 @import url(../blocks/platform/__button/platform__button.css);
@@ -32,6 +32,7 @@
 @import url(../blocks/best-choice/__subtitle/best-choice__subtitle.css);
 @import url(../blocks/best-choice/__image/best-choice__image.css);
 @import url(../blocks/service/service.css);
+@import url(../blocks/service/__blurred-oval/service__blurred-oval.css);
 @import url(../blocks/service/__title-container/service__title-container.css);
 @import url(../blocks/service/__title/service__title.css);
 @import url(../blocks/service/__grid-container/service__grid-container.css);
