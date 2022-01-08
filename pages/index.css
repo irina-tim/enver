@@ -2,7 +2,6 @@
 @import url(../vendor/fonts/fonts.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/content/content.css);
-@import url(../blocks/page/__blurred-rectangle/page__blurred-rectangle.css);
 @import url(../blocks/page/__blurred-rectangle2/page__blurred-rectangle2.css);
 @import url(../blocks/page/__blurred-oval/page__blurred-oval.css);
 @import url(../blocks/page/__blurred-rectangle3/page__blurred-rectangle3.css);
@@ -21,6 +20,7 @@
 @import url(../blocks/header/__lang-links/header__lang-links.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 @import url(../blocks/platform/platform.css);
+@import url(../blocks/platform/__blurred-rectangle/platform__blurred-rectangle.css);
 @import url(../blocks/platform/__title/platform__title.css);
 @import url(../blocks/platform/__subtitle/platform__subtitle.css);
 @import url(../blocks/platform/__button/platform__button.css);
