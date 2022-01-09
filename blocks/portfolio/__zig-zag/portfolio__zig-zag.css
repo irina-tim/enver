@@ -6,3 +6,27 @@
   top: 8px;
   left: -634px;
 }
+
+@media screen and (max-width: 1350px) {
+  .portfolio__zig-zag {
+    left: -584px;
+  }
+}
+
+@media screen and (max-width: 1250px) {
+  .portfolio__zig-zag {
+    left: -564px;
+  }
+}
+
+@media screen and (max-width: 1250px) {
+  .portfolio__zig-zag {
+    left: -520px;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .portfolio__zig-zag {
+    left: -500px;
+  }
+}

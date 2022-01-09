@@ -6,3 +6,10 @@
   max-width: 695px;
   text-align: center;
 }
+
+@media screen and (max-width: 1150px) {
+  .service__title {
+    font-size: 52.5px;
+    line-height: 62.5px;
+  }
+}

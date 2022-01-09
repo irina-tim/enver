@@ -6,3 +6,10 @@
   margin-bottom: 24px;
   max-width: 582px;
 }
+
+@media screen and (max-width: 1150px) {
+  .platform__title {
+    font-size: 70px;
+    line-height: 74px;
+  }
+}

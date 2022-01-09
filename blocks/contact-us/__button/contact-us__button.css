@@ -1,7 +1,7 @@
 .contact-us__button {
   display: block;
-  width: 201px;
-  height: 60px;
+  min-width: 201px;
+  min-height: 60px;
   background: #5454d4;
   border-radius: 5px;
   color: white;

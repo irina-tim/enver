@@ -1,5 +1,6 @@
 .portfolio__image {
   border: 14px solid #1e1e20;
+  width: 100%;
 }
 
 .portfolio__image:nth-child(1) {

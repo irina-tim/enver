@@ -4,3 +4,9 @@
   width: 100%;
   max-width: 1200px;
 }
+
+@media screen and (max-width: 1350px) {
+  .footer {
+    width: 80%;
+  }
+}

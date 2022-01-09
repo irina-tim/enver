@@ -8,3 +8,10 @@
   margin-bottom: 50px;
   max-width: 536px;
 }
+
+@media screen and (max-width: 1150px) {
+  .platform__subtitle {
+    font-size: 18px;
+    line-height: 30px;
+  }
+}

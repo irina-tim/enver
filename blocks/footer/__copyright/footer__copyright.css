@@ -3,3 +3,9 @@
   letter-spacing: -0.500211px;
   color: rgba(255, 255, 255, 0.7);
 }
+
+@media screen and (max-width: 1150px) {
+  .footer__copyright {
+    font-size: 14px;
+  }
+}

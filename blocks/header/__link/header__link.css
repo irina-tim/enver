@@ -10,3 +10,9 @@
   color: #5454d4;
   opacity: 1;
 }
+
+@media screen and (max-width: 1150px) {
+  .header__link {
+    font-size: 16px;
+  }
+}

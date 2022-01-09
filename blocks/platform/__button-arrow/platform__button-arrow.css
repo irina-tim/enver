@@ -4,4 +4,13 @@
   height: 12px;
   display: inline-block;
   margin-left: 10px;
+  background-size: cover;
+}
+
+@media screen and (max-width: 1150px) {
+  .platform__button-arrow {
+    width: 9px;
+    height: 9px;
+    margin-left: 7px;
+  }
 }

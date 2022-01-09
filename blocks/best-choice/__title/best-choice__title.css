@@ -5,3 +5,11 @@
   margin: 0;
   padding: 0;
 }
+
+@media screen and (max-width: 1150px) {
+  .best-choice__title {
+    font-size: 52.5px;
+    line-height: 62.5px;
+    max-width: 550px;
+  }
+}

@@ -1,5 +1,7 @@
 .content {
   width: 100%;
-  max-width: 1213px;
-  margin-left: 13px;
+  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }

@@ -5,3 +5,11 @@
   font: bold 60px/66px "Graphik", Arial, sans-serif;
   max-width: 826px;
 }
+
+@media screen and (max-width: 1150px) {
+  .contact-us__title {
+    font-size: 52.5px;
+    line-height: 58.5px;
+    max-width: 726px;
+  }
+}

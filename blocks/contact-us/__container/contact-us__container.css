@@ -1,7 +1,14 @@
 .contact-us__container {
-  width: 1200px;
+  width: 100%;
+  max-width: 1200px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   position: relative;
+}
+
+@media screen and (max-width: 1350px) {
+  .contact-us__container {
+    width: 90%;
+  }
 }

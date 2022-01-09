@@ -7,3 +7,10 @@
   max-width: 299px;
   text-align: center;
 }
+
+@media screen and (max-width: 1150px) {
+  .service__grid-element-description {
+    font-size: 17px;
+    line-height: 25px;
+  }
+}
