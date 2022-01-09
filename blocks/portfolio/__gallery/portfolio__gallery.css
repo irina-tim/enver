@@ -1,6 +1,7 @@
 .portfolio__gallery {
   display: flex;
   justify-content: space-between;
+  gap: 24px;
   align-items: center;
   min-height: 417px;
   margin-bottom: 50px;
