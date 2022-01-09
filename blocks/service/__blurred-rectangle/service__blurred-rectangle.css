@@ -14,3 +14,10 @@
   border-radius: 233.5px;
   transform: rotate(65.71deg);
 }
+
+@media screen and (max-width: 1350px) {
+  .service__blurred-rectangle {
+    top: 1188px;
+    height: 2276.87px;
+  }
+}
