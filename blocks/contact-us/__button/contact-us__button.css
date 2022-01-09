@@ -8,4 +8,18 @@
   font: bold 21px/29px "Nunito Sans", Arial, sans-serif;
   border: none;
   padding: 0;
+  transition: all 0.4s ease-in-out;
+  cursor: pointer;
+  background-size: 300% 100%;
+}
+
+.contact-us__button:hover {
+  background-position: 100% 0;
+  background-image: linear-gradient(
+    to right,
+    #5454d4,
+    #6464f4,
+    #5454d4,
+    #5454d4
+  );
 }

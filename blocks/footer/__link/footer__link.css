@@ -2,4 +2,10 @@
   color: rgba(255, 255, 255, 0.7);
   text-decoration: none;
   font: normal 18px/25px "Nunito Sans", Arial, sans-serif;
+  transition: 0.3s ease;
+}
+
+.footer__link:hover {
+  color: #5454d4;
+  opacity: 1;
 }

@@ -2,8 +2,6 @@
 @import url(../vendor/fonts/fonts.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/content/content.css);
-@import url(../blocks/page/__blurred-rectangle3/page__blurred-rectangle3.css);
-@import url(../blocks/page/__blurred-rectangle4/page__blurred-rectangle4.css);
 @import url(../blocks/page/__header/page__header.css);
 @import url(../blocks/page/__platform/page__platform.css);
 @import url(../blocks/page/__best-choice/page__best-choice.css);
@@ -16,8 +14,8 @@
 @import url(../blocks/logo/__text/logo__text.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__contact-button/header__contact-button.css);
-@import url(../blocks/header/__lang-links/header__lang-links.css);
-@import url(../blocks/header/__lang-link/header__lang-link.css);
+@import url(../blocks/header/__links/header__links.css);
+@import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/platform/platform.css);
 @import url(../blocks/platform/__blurred-rectangle/platform__blurred-rectangle.css);
 @import url(../blocks/platform/__blurred-rectangle2/platform__blurred-rectangle2.css);
@@ -42,7 +40,9 @@
 @import url(../blocks/service/__grid-element-description/service__grid-element-description.css);
 @import url(../blocks/service/__svg-triangles/service__svg-triangles.css);
 @import url(../blocks/service/__svg-plus/service__svg-plus.css);
+@import url(../blocks/service/__blurred-rectangle/service__blurred-rectangle.css);
 @import url(../blocks/portfolio/portfolio.css);
+@import url(../blocks/portfolio/__blurred-rectangle/portfolio__blurred-rectangle.css);
 @import url(../blocks/portfolio/__title-container/portfolio__title-container.css);
 @import url(../blocks/portfolio/__title/portfolio__title.css);
 @import url(../blocks/portfolio/__gallery/portfolio__gallery.css);

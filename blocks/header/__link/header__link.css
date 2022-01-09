@@ -1,11 +1,12 @@
-.header__lang-link {
+.header__link {
   font: normal 18px/25px "Nunito Sans", Arial, sans-serif;
   text-decoration: none;
   color: white;
   opacity: 0.7;
+  transition: 0.3s ease;
 }
 
-.header__lang-link:hover {
+.header__link:hover {
   color: #5454d4;
   opacity: 1;
 }
