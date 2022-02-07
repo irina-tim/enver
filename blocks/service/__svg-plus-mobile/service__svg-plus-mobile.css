@@ -1,0 +1,14 @@
+.service__svg-plus-mobile {
+  width: 19px;
+  height: 19px;
+  position: absolute;
+  display: none;
+  top: 100px;
+  right: -20px;
+}
+
+@media screen and (max-width: 700px) {
+  .service__svg-plus-mobile {
+    display: block;
+  }
+}

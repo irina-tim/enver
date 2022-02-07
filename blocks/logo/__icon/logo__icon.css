@@ -4,3 +4,10 @@
   width: 40px;
   height: 40px;
 }
+
+@media screen and (max-width: 700px) {
+  .logo__icon {
+    width: 27px;
+    height: 27px;
+  }
+}

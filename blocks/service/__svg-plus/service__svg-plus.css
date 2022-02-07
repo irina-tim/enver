@@ -5,3 +5,9 @@
   top: 96px;
   right: 19px;
 }
+
+@media screen and (max-width: 700px) {
+  .service__svg-plus {
+    display: none;
+  }
+}

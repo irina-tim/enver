@@ -13,3 +13,11 @@
     line-height: 62.5px;
   }
 }
+
+@media screen and (max-width: 700px) {
+  .service__title {
+    font-size: 36px;
+    line-height: 54px;
+    text-align: left;
+  }
+}

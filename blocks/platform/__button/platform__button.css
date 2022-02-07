@@ -27,8 +27,9 @@
 
 @media screen and (max-width: 1150px) {
   .platform__button {
-    width: 158px;
-    height: 45px;
-    font-size: 15.5px;
+    width: 166px;
+    height: 44px;
+    font-size: 16px;
+    line-height: 22px;
   }
 }

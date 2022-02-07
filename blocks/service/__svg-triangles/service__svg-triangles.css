@@ -1,9 +1,44 @@
 .service__svg-triangles {
-  margin-right: 85px;
   width: 105px;
   height: 121px;
   fill: none;
   position: absolute;
   top: -32px;
   left: 69px;
+}
+
+@media screen and (max-width: 1100px) {
+  .service__svg-triangles {
+    left: 35px;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .service__svg-triangles {
+    left: 20px;
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .service__svg-triangles {
+    left: -10px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .service__svg-triangles {
+    left: -30px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .service__svg-triangles {
+    left: -50px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .service__svg-triangles {
+    display: none;
+  }
 }

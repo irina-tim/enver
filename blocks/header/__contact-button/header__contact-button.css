@@ -13,3 +13,9 @@
 .header__contact-button:hover {
   box-shadow: inset 157px 0 0 0 #5454d4;
 }
+
+@media screen and (max-width: 700px) {
+  .header__contact-button {
+    display: none;
+  }
+}

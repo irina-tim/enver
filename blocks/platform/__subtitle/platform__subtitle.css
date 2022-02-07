@@ -15,3 +15,10 @@
     line-height: 30px;
   }
 }
+
+@media screen and (max-width: 700px) {
+  .platform__subtitle {
+    font-size: 14px;
+    line-height: 24px;
+  }
+}

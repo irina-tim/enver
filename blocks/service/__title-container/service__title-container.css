@@ -4,3 +4,9 @@
   margin-bottom: 98px;
   position: relative;
 }
+
+@media screen and (max-width: 700px) {
+  .service__title-container {
+    justify-content: flex-start;
+  }
+}

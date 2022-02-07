@@ -1,0 +1,15 @@
+.service__svg-triangles-mobile {
+  width: 65px;
+  height: 75px;
+  display: none;
+  fill: none;
+  position: absolute;
+  top: -75px;
+  left: -5px;
+}
+
+@media screen and (max-width: 700px) {
+  .service__svg-triangles-mobile {
+    display: block;
+  }
+}
