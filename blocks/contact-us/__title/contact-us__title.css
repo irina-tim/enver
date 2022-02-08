@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
   font: bold 60px/66px "Graphik", Arial, sans-serif;
+  flex-shrink: 0;
   max-width: 826px;
 }
 
@@ -11,5 +12,13 @@
     font-size: 52.5px;
     line-height: 58.5px;
     max-width: 726px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .contact-us__title {
+    font-size: 36px;
+    line-height: 54px;
+    max-width: 327px;
   }
 }

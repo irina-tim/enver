@@ -1,7 +1,7 @@
 .contact-us__button {
   display: block;
-  min-width: 201px;
-  min-height: 60px;
+  width: 201px;
+  height: 60px;
   background: #5454d4;
   border-radius: 5px;
   color: white;
@@ -11,6 +11,7 @@
   transition: all 0.4s ease-in-out;
   cursor: pointer;
   background-size: 300% 100%;
+  flex-shrink: 0;
 }
 
 .contact-us__button:hover {
@@ -22,4 +23,13 @@
     #5454d4,
     #5454d4
   );
+}
+
+@media screen and (max-width: 700px) {
+  .contact-us__button {
+    width: 166px;
+    height: 44px;
+    font-size: 16px;
+    line-height: 21.82px;
+  }
 }

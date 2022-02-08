@@ -1,0 +1,15 @@
+.contact-us__svg-circles-mobile {
+  display: none;
+  position: absolute;
+  width: 40px;
+  height: 47px;
+  fill: none;
+  top: 280px;
+  left: -10px;
+}
+
+@media screen and (max-width: 700px) {
+  .contact-us__svg-circles-mobile {
+    display: block;
+  }
+}

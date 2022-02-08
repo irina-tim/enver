@@ -1,0 +1,15 @@
+.portfolio__svg-plus-mobile {
+  position: absolute;
+  display: none;
+  width: 18.67px;
+  height: 18.67px;
+  fill: none;
+  top: -110px;
+  left: 0;
+}
+
+@media screen and (max-width: 700px) {
+  .portfolio__svg-plus-mobile {
+    display: block;
+  }
+}

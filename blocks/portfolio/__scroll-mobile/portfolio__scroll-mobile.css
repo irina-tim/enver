@@ -1,0 +1,16 @@
+.portfolio__scroll-mobile {
+  display: none;
+  background-color: rgba(255, 255, 255, 0.2);
+  width: 38.21px;
+  height: 38.21px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+@media screen and (max-width: 700px) {
+  .portfolio__scroll-mobile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}

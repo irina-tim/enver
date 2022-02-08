@@ -6,3 +6,9 @@
   top: 19px;
   right: 14px;
 }
+
+@media screen and (max-width: 700px) {
+  .portfolio__svg-circles {
+    display: none;
+  }
+}

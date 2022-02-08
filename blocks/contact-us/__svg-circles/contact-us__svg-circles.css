@@ -6,3 +6,9 @@
   top: 208px;
   left: 33px;
 }
+
+@media screen and (max-width: 700px) {
+  .contact-us__svg-circles {
+    display: none;
+  }
+}
