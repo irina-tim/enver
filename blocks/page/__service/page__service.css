@@ -1,3 +1,9 @@
 .page__service {
   padding-top: 150px;
 }
+
+@media screen and (max-width: 700px) {
+  .page__service {
+    padding-top: 137px;
+  }
+}

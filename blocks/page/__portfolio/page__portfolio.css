@@ -1,4 +1,10 @@
 .page__portfolio {
-  padding-top: 199px;
+  padding-top: 191px;
   margin-bottom: 168px;
+}
+
+@media screen and (max-width: 700px) {
+  .page__portfolio {
+    margin-bottom: 156px;
+  }
 }

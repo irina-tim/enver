@@ -18,7 +18,9 @@
 
 @media screen and (max-width: 700px) {
   .platform__subtitle {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
+    max-width: 327px;
+    letter-spacing: 0;
   }
 }

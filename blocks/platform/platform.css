@@ -13,8 +13,8 @@
 
 @media screen and (max-width: 700px) {
   .platform {
-    width: 85%;
-    grid-gap: 85px;
+    width: 87%;
+    grid-gap: 101px;
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr;
   }
