@@ -10,7 +10,9 @@
 
 @media screen and (max-width: 1150px) {
   .service__grid-element-description {
-    font-size: 17px;
-    line-height: 25px;
+    font-size: 16px;
+    line-height: 28px;
+    max-width: 256px;
+    letter-spacing: 0;
   }
 }

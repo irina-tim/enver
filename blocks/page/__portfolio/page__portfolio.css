@@ -5,6 +5,7 @@
 
 @media screen and (max-width: 700px) {
   .page__portfolio {
+    padding-top: 188px;
     margin-bottom: 156px;
   }
 }

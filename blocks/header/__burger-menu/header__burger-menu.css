@@ -1,5 +1,13 @@
 .header__burger-menu {
   height: 24px;
   width: 24px;
+  margin-top: -1px;
   flex-shrink: 0;
+  display: none;
+}
+
+@media screen and (max-width: 700px) {
+  .header__burger-menu {
+    display: block;
+  }
 }
