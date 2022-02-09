@@ -1,0 +1,5 @@
+.header__burger-menu {
+  height: 24px;
+  width: 24px;
+  flex-shrink: 0;
+}
