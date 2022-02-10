@@ -21,3 +21,9 @@
     height: 2276.87px;
   }
 }
+
+@media screen and (max-width: 700px) {
+  .service__blurred-rectangle {
+    display: none;
+  }
+}

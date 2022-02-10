@@ -13,3 +13,9 @@
   border-radius: 233.5px;
   transform: rotate(-54.37deg);
 }
+
+@media screen and (max-width: 700px) {
+  .service__blurred-oval {
+    display: none;
+  }
+}
