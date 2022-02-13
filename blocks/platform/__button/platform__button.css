@@ -12,6 +12,8 @@
   cursor: pointer;
   background-size: 300% 100%;
   position: relative;
+  margin-left: 4px;
+  padding-right: 8px;
 }
 
 .platform__button:hover {
@@ -27,12 +29,13 @@
 
 @media screen and (max-width: 1150px) {
   .platform__button {
+    margin-left: 0;
     width: 166px;
     height: 44px;
     font-size: 16px;
     line-height: 22px;
     border-radius: 0;
     text-align: left;
-    padding-left: 17px;
+    padding: 0 0 0 17px;
   }
 }
