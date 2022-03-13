@@ -16,6 +16,12 @@
   box-shadow: inset 157px 0 0 0 #5454d4;
 }
 
+@media screen and (max-width: 1000px) {
+  .header__contact-button {
+    width: 120px;
+  }
+}
+
 @media screen and (max-width: 700px) {
   .header__contact-button {
     display: none;
