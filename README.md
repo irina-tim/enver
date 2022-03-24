@@ -9,7 +9,7 @@ Responsive digital agency website. Adaptive layout.
 - Desktop First Design
 - Flexbox and grid layout
 - Pure CSS
-- Verified with PixelPerfect
+- Good match with design (verified with PixelPerfect)
 
 ### Technologies used
 
@@ -19,7 +19,7 @@ HTML, CSS, СSS animations, flexbox, grid, Nested BEM
 
 [Link to template on Figma](https://www.figma.com/community/file/1058842196634115002), [link to the author's profile](https://www.figma.com/@ozanardhi)
 
-## Match with design from figma
+## Match with template from Figma
 
 Layer matching on 375px (PixelPerfect):
 
