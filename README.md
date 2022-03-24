@@ -1,10 +1,14 @@
 # Project: Enver
 
-Responsive digital agency website.
+Responsive digital agency website. Adaptive layout.
 
-### Project on GitHub Pages
+[Link to a page on GitHub Pages.](https://irina-tim.github.io/enver/index.html)
 
-[Link to a page on GitHub Pages](https://irina-tim.github.io/enver/index.html)
+## Highlights
+
+- Desktop First Design
+- Flexbox and grid layout
+- Pure CSS
 
 ### Technologies used
 
