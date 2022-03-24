@@ -18,7 +18,7 @@
 @media screen and (max-width: 700px) {
   .platform__container:nth-child(2) {
     background-image: url(../../../images/platform__image-mobile.svg);
-    height: 150%;
+    height: 120%;
     margin: -30px 0 0 -19px;
   }
 }
