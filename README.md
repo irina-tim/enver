@@ -23,8 +23,8 @@ HTML, CSS, СSS animations, flexbox, grid, Nested BEM
 
 Layer matching on 375px (PixelPerfect):
 
-<img src="https://github.com/irina-tim/enver/blob/master/images/pixelPerfect375px.png?raw=true" alt="Pixel Perfect on 375px" style="height: 50%">
+<img src="https://github.com/irina-tim/enver/blob/master/images/pixelPerfect375px.png?raw=true" alt="Pixel Perfect on 375px" style="height: 30%">
 
 Layer matching on 1440px (PixelPerfect):
 
-<img src="https://github.com/irina-tim/enver/blob/master/images/pixelPerfect1440px.png?raw=true" alt="Pixel Perfect on 1440px" style="width: 60%">
+<img src="https://github.com/irina-tim/enver/blob/master/images/pixelPerfect1440px.png?raw=true" alt="Pixel Perfect on 1440px" style="width: 70%">
