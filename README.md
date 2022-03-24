@@ -9,6 +9,10 @@ Responsive digital agency website. Adaptive layout.
 - Desktop First Design
 - Flexbox and grid layout
 - Pure CSS
+- Verified with Pixel Perfect
+
+Layer matching on 375px:
+<img src="https://github.com/irina-tim/enver/blob/master/images/pixelPerfect375px.png?raw=true" alt="Pixel Perfect on 375px" style="max-width: 80%">
 
 ### Technologies used
 
